@@ -1,5 +1,5 @@
  
-import React, { useContext , useReducer} from 'react';
+import React, { useReducer} from 'react';
 import numberReducer from './numberReducer';
 
 function Child2() {
